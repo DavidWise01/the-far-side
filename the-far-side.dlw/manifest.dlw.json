@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-THE_FAR_SIDE",
+  "name": "THE FAR SIDE",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦THE FAR SIDE:the-far-side:10345f⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "10345f24e1a808e030c483d6eccd037f9a4874820bdbce1c6600373228c01d34",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
